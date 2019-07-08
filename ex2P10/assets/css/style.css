@@ -1,0 +1,32 @@
+.jumbo{
+   background-image: linear-gradient(#591b1b,#ff8484);
+}
+
+.container{
+    background-image: linear-gradient(#c46d6d, #ff5454);
+
+   
+}
+
+.formulaire{
+    background-image: linear-gradient(#ff5454, #c46d6d);
+}
+
+.ok{
+    background-color: #cc3030;
+}
+
+.img{
+ height:100px;
+ width: 165px;
+}
+.img-1{
+    float: left;
+    margin-left:200px;
+    margin-top: -30px;
+}
+.img-2{
+    float: right;
+    margin-right:200px;
+    margin-top: -30px;
+}
